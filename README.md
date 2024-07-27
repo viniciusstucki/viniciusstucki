@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋, my name is Vinícius Stucki!
+
+### What I doing?
+
+- 🌱 I’m currently learning Python and Django.
+- 🔭 I’m currently working on personal projects and a Intranet solution for my clients.
+
+- ⚡ Fun fact: I'm a Network Analyst, I'm learning programming =). Have patience with me.
 
 <!--
 **viniciusstucki/viniciusstucki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
